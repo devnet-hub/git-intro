@@ -1,3 +1,4 @@
 Whatever my first file...
 Added from git-conflict!!!
-This is text added to git-advanced branch - ADDED!!!
+This is text added to git-advanced branch - removed...!!!
+>>>>>>> git-conflict
